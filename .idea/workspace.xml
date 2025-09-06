@@ -5,7 +5,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="843da7a1-9bb5-4a92-9226-cd703e834163" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/serenity.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/co/com/screenplay/project/hooks/Hook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/co/com/screenplay/project/preguntas/scenariodos/ScenarioDosPregunta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/co/com/screenplay/project/preguntas/scenariotres/CampoDatepickerAceptaManualPregunta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/co/com/screenplay/project/preguntas/scenariotres/FechaCalendarioPregunta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/co/com/screenplay/project/preguntas/scenariouno/ScenarioUnoPregunta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/co/com/screenplay/project/stepdefinitions/RutaPrincipalStepDefinition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/co/com/screenplay/project/stepdefinitions/scenariodos/ScenarioDosStepDefinition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/co/com/screenplay/project/stepdefinitions/scenariotres/ScenarioTresStepDefinition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/co/com/screenplay/project/stepdefinitions/scenariotres/SeleccionarFechaCalendarioStepDefinition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/co/com/screenplay/project/stepdefinitions/scenariouno/ScenarioUnoStepDefinition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/co/com/screenplay/project/tareas/DatapickerFechaTarea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/co/com/screenplay/project/tareas/IframeTarea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/co/com/screenplay/project/tareas/scenariodos/ScenarioDosDiaTarea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/co/com/screenplay/project/tareas/scenariotres/ScenarioTresTarea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/co/com/screenplay/project/tareas/scenariotres/SeleccionarFechaCalendarioTarea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/co/com/screenplay/project/tareas/scenariouno/ImprimirFecha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/co/com/screenplay/project/tareas/scenariouno/ScenarioUnoDiaTarea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/co/com/screenplay/project/ui/CalendarioUi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/co/com/screenplay/project/utilidades/Constantes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/co/com/screenplay/project/utilidades/DiaAleatorio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/co/com/screenplay/project/utilidades/wait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/reto-tecnico.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/screenplay/project/hooks/OpenWeb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/co/com/screenplay/project/hooks/Web.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/screenplay/project/utils/Constants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/screenplay/project/utils/Time.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/co/com/screenplay/project/runners/RunnerOpenWeb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/co/com/screenplay/project/runners/RunnerOpenWeb.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/co/com/screenplay/project/stepdefinition/OpenWebStep.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/co/com/screenplay/project/stepdefinition/hook/Hook.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/openweb.feature" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/resources/serenity.conf" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/serenity.conf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,8 +81,11 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
   <component name="ProjectId" id="2lzE0lQPiZ5KRKkPW3f9FOeGCoR" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -62,9 +95,14 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Gradle.Base-serenity-bdd-con-Screen-play-google [clean].executor": "Run",
+    "Gradle.Download Sources.executor": "Run",
+    "Gradle.RunnerOpenWeb.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Richard/Desktop/Tester/Pruebas serenity bdd/celuweb3/ProyectoWebQA/ProyectoBaseCeluweb",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/PCC/Desktop/pruebas/Base-serenity-bdd-con-Screen-play-google",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -73,15 +111,29 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Richard\Desktop\Tester\Pruebas serenity bdd\projectBanistmo\Base-serenity-bdd-con-Screen-play\src\test\resources" />
-      <recent name="C:\Users\Richard\Desktop\Tester\Pruebas serenity bdd\projectbase\src\main\java\co\com\screenplay\project\hooks" />
-      <recent name="C:\Users\Richard\Desktop\Tester\Pruebas serenity bdd\projectbase\src\main\java\co\com\screenplay\project\questions" />
-      <recent name="C:\Users\Richard\Desktop\Tester\Pruebas serenity bdd\projectbase\src\main\java\co\com\screenplay\project\tasks" />
-      <recent name="C:\Users\Richard\Desktop\Tester\Pruebas serenity bdd\projectbase\src\main\java\co\com\screenplay\project\ui" />
+      <recent name="C:\Users\PCC\Desktop\pruebas\Base-serenity-bdd-con-Screen-play-google" />
+      <recent name="C:\Users\PCC\Desktop\pruebas\Base-serenity-bdd-con-Screen-play-google\src\test\resources\features\scenariodos" />
+      <recent name="C:\Users\PCC\Desktop\pruebas\Base-serenity-bdd-con-Screen-play-google\src\test\resources\features" />
+      <recent name="C:\Users\PCC\Desktop\pruebas\Base-serenity-bdd-con-Screen-play-google\src\test\java\co\com\screenplay\project\ui" />
+      <recent name="C:\Users\PCC\Desktop\pruebas\Base-serenity-bdd-con-Screen-play-google\src\test\java\co\com\screenplay\project\tareas" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\PCC\Desktop\pruebas\Base-serenity-bdd-con-Screen-play-google\src\test\resources\features" />
+      <recent name="C:\Users\PCC\Desktop\pruebas\Base-serenity-bdd-con-Screen-play-google\src\test\resources\drivers" />
+      <recent name="C:\Users\PCC\Desktop\pruebas\Base-serenity-bdd-con-Screen-play-google\src\test\resources\features\scenariouno" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="co.com.screenplay.project.hooks" />
+      <recent name="co.com.screenplay.project.tareas.scenariotres" />
+      <recent name="co.com.screenplay.project.stepdefinitions.scenariotres" />
+      <recent name="co.com.screenplay.project.preguntas.scenariodos" />
+      <recent name="co.com.screenplay.project.tareas.scenariodos" />
+      <recent name="co.com.screenplay.project.stepdefinitions" />
     </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="gradle clean" />
+    </option>
   </component>
   <component name="RunManager" selected="Gradle.RunnerOpenWeb">
     <configuration name="Feature: openweb" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
@@ -151,6 +203,29 @@
       <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
       <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
       <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="Base-serenity-bdd-con-Screen-play-google [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
       <method v="2" />
     </configuration>
     <configuration name="RunnerOpenWeb" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
@@ -174,17 +249,20 @@
       <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
       <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
       <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
       <method v="2" />
     </configuration>
     <list>
       <item itemvalue="Cucumber Java.Feature: openweb" />
       <item itemvalue="Cucumber Java.Scenario: Open the browser and go to the homepage" />
+      <item itemvalue="Gradle.Base-serenity-bdd-con-Screen-play-google [clean]" />
       <item itemvalue="Gradle.Base-serenity-bdd-con-Screen-play [updateConfigFile]" />
       <item itemvalue="Gradle.RunnerOpenWeb" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Gradle.RunnerOpenWeb" />
+        <item itemvalue="Gradle.Base-serenity-bdd-con-Screen-play-google [clean]" />
         <item itemvalue="Gradle.Base-serenity-bdd-con-Screen-play [updateConfigFile]" />
         <item itemvalue="Cucumber Java.Feature: openweb" />
         <item itemvalue="Cucumber Java.Scenario: Open the browser and go to the homepage" />

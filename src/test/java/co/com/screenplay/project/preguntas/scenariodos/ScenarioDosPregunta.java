@@ -1,6 +1,6 @@
-package co.com.screenplay.project.preguntas.scenariouno;
+package co.com.screenplay.project.preguntas.scenariodos;
 
-import co.com.screenplay.project.ui.scenariouno.ScenarioUnoUi;
+import co.com.screenplay.project.ui.CalendarioUi;
 import net.serenitybdd.screenplay.Actor;
 import net.serenitybdd.screenplay.Question;
 import net.serenitybdd.screenplay.waits.WaitUntil;
@@ -8,20 +8,20 @@ import net.serenitybdd.screenplay.waits.WaitUntil;
 import static net.serenitybdd.screenplay.matchers.WebElementStateMatchers.isVisible;
 
 
-public class ScenarioUnoPregunta implements Question<String> {
+public class ScenarioDosPregunta implements Question<String> {
 
     @Override
     public String answeredBy(Actor actor) {
 
         actor.attemptsTo(
-                WaitUntil.the(ScenarioUnoUi.FIELD_DATAPICKER, isVisible())
+                WaitUntil.the(CalendarioUi.FIELD_DATAPICKER, isVisible())
                         .forNoMoreThan(10).seconds()
         );
 
-        return ScenarioUnoUi.FIELD_DATAPICKER.resolveFor(actor).getValue();
+        return CalendarioUi.FIELD_DATAPICKER.resolveFor(actor).getValue();
     }
 
-    public static ScenarioUnoPregunta value() {
-        return new ScenarioUnoPregunta();
+    public static ScenarioDosPregunta value() {
+        return new ScenarioDosPregunta();
     }
 }

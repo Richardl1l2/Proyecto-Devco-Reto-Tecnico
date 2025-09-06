@@ -1,9 +1,9 @@
-package co.com.screenplay.project.ui.scenariouno;
+package co.com.screenplay.project.ui;
 
 import net.serenitybdd.screenplay.targets.Target;
 import org.openqa.selenium.By;
 
-public class ScenarioUnoUi {
+public class CalendarioUi {
 
     public static Target IFRAME_CALENDARIO = Target.the("Iframe que contiene el calendario")
             .located(By.cssSelector("iframe.demo-frame"));

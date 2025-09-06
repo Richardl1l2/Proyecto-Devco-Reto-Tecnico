@@ -1,6 +1,6 @@
 package co.com.screenplay.project.preguntas.scenariouno;
 
-import co.com.screenplay.project.ui.scenariouno.ScenarioUnoUi;
+import co.com.screenplay.project.ui.CalendarioUi;
 import net.serenitybdd.screenplay.Actor;
 import net.serenitybdd.screenplay.Question;
 import net.serenitybdd.screenplay.waits.WaitUntil;
@@ -14,11 +14,11 @@ public class ScenarioUnoPregunta implements Question<String> {
     public String answeredBy(Actor actor) {
 
         actor.attemptsTo(
-                WaitUntil.the(ScenarioUnoUi.FIELD_DATAPICKER, isVisible())
+                WaitUntil.the(CalendarioUi.FIELD_DATAPICKER, isVisible())
                         .forNoMoreThan(10).seconds()
         );
 
-        return ScenarioUnoUi.FIELD_DATAPICKER.resolveFor(actor).getValue();
+        return CalendarioUi.FIELD_DATAPICKER.resolveFor(actor).getValue();
     }
 
     public static ScenarioUnoPregunta value() {
