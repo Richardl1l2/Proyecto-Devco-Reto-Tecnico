@@ -10,10 +10,9 @@ import net.thucydides.core.util.EnvironmentVariables;
 import static co.com.screenplay.project.utils.Constants.WEB_URL;
 import static net.serenitybdd.screenplay.Tasks.instrumented;
 
-public class OpenWeb implements Task {
+public class Web implements Task {
 
     private EnvironmentVariables environmentVariables;
-
 
     @Override
     public <T extends Actor> void performAs(T actor) {
@@ -21,6 +20,6 @@ public class OpenWeb implements Task {
         actor.attemptsTo(Open.url(pathwebUrl));
     }
     public static Performable browserURL(){
-        return instrumented(OpenWeb.class);
+        return instrumented(Web.class);
     }
 }
