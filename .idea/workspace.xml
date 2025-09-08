@@ -5,38 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="843da7a1-9bb5-4a92-9226-cd703e834163" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/serenity.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/co/com/screenplay/project/hooks/Hook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/co/com/screenplay/project/preguntas/scenariodos/ScenarioDosPregunta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/co/com/screenplay/project/preguntas/scenariotres/CampoDatepickerAceptaManualPregunta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/co/com/screenplay/project/preguntas/scenariotres/FechaCalendarioPregunta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/co/com/screenplay/project/preguntas/scenariouno/ScenarioUnoPregunta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/co/com/screenplay/project/stepdefinitions/RutaPrincipalStepDefinition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/co/com/screenplay/project/stepdefinitions/scenariodos/ScenarioDosStepDefinition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/co/com/screenplay/project/stepdefinitions/scenariotres/ScenarioTresStepDefinition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/co/com/screenplay/project/stepdefinitions/scenariotres/SeleccionarFechaCalendarioStepDefinition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/co/com/screenplay/project/stepdefinitions/scenariouno/ScenarioUnoStepDefinition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/co/com/screenplay/project/tareas/DatapickerFechaTarea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/co/com/screenplay/project/tareas/IframeTarea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/co/com/screenplay/project/tareas/scenariodos/ScenarioDosDiaTarea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/co/com/screenplay/project/tareas/scenariotres/ScenarioTresTarea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/co/com/screenplay/project/tareas/scenariotres/SeleccionarFechaCalendarioTarea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/co/com/screenplay/project/tareas/scenariouno/ImprimirFecha.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/co/com/screenplay/project/tareas/scenariouno/ScenarioUnoDiaTarea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/co/com/screenplay/project/ui/CalendarioUi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/co/com/screenplay/project/utilidades/Constantes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/co/com/screenplay/project/utilidades/DiaAleatorio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/co/com/screenplay/project/utilidades/wait.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/reto-tecnico.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/screenplay/project/hooks/OpenWeb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/co/com/screenplay/project/hooks/Web.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/screenplay/project/utils/Constants.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/screenplay/project/utils/Time.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/co/com/screenplay/project/runners/RunnerOpenWeb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/co/com/screenplay/project/runners/RunnerOpenWeb.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/co/com/screenplay/project/stepdefinition/OpenWebStep.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/co/com/screenplay/project/stepdefinition/hook/Hook.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/openweb.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/serenity.conf" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/serenity.conf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,9 +50,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2lzE0lQPiZ5KRKkPW3f9FOeGCoR" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -92,23 +61,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Gradle.Base-serenity-bdd-con-Screen-play-google [clean].executor": "Run",
-    "Gradle.Download Sources.executor": "Run",
-    "Gradle.RunnerOpenWeb.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/PCC/Desktop/pruebas/Base-serenity-bdd-con-Screen-play-google",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Gradle.Base-serenity-bdd-con-Screen-play-google [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Download Sources.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.RunnerOpenWeb.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/PCC/Desktop/pruebas/Base-serenity-bdd-con-Screen-play-google&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\PCC\Desktop\pruebas\Base-serenity-bdd-con-Screen-play-google" />

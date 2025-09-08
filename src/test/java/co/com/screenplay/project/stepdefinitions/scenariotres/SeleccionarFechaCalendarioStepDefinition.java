@@ -1,9 +1,6 @@
 package co.com.screenplay.project.stepdefinitions.scenariotres;
 
-import co.com.screenplay.project.preguntas.scenariotres.CampoDatepickerAceptaManualPregunta;
 import co.com.screenplay.project.preguntas.scenariotres.FechaCalendarioPregunta;
-import co.com.screenplay.project.tareas.scenariodos.ScenarioDosDiaTarea;
-import co.com.screenplay.project.tareas.scenariotres.ScenarioTresTarea;
 import co.com.screenplay.project.tareas.scenariotres.SeleccionarFechaCalendarioTarea;
 import co.com.screenplay.project.tareas.scenariouno.ImprimirFecha;
 import co.com.screenplay.project.utilidades.DiaAleatorio;
