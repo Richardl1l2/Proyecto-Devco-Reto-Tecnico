@@ -1,6 +1,6 @@
 package co.com.screenplay.project.tareas.agendamiento.rangoprecio;
 
-import co.com.screenplay.project.ui.agendamiento.rangoprecio.RangoPrecioUi;
+import co.com.screenplay.project.agendamiento.rangoprecio.RangoPrecioUi;
 import io.cucumber.datatable.DataTable;
 import net.serenitybdd.screenplay.Actor;
 import net.serenitybdd.screenplay.Task;

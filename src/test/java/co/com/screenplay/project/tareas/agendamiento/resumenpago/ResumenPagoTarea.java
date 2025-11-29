@@ -1,6 +1,6 @@
 package co.com.screenplay.project.tareas.agendamiento.resumenpago;
 
-import co.com.screenplay.project.ui.agendamiento.resumenpago.ResumenPagoUi;
+import co.com.screenplay.project.agendamiento.resumenpago.ResumenPagoUi;
 import co.com.screenplay.project.utilidades.Espera;
 import io.cucumber.datatable.DataTable;
 import net.serenitybdd.screenplay.Actor;

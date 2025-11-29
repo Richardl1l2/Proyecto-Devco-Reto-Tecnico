@@ -1,4 +1,4 @@
-package co.com.screenplay.project.ui.agendamiento.resumenpago;
+package co.com.screenplay.project.agendamiento.resumenpago;
 
 import net.serenitybdd.screenplay.targets.Target;
 import org.openqa.selenium.By;

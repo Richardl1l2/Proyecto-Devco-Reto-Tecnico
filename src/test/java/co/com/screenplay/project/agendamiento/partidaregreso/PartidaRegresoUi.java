@@ -1,4 +1,4 @@
-package co.com.screenplay.project.ui.agendamiento.partidaregreso;
+package co.com.screenplay.project.agendamiento.partidaregreso;
 
 import net.serenitybdd.screenplay.targets.Target;
 import org.openqa.selenium.By;

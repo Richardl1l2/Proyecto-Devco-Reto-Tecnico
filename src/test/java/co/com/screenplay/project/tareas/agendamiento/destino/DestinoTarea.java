@@ -1,6 +1,6 @@
 package co.com.screenplay.project.tareas.agendamiento.destino;
 
-import co.com.screenplay.project.ui.agendamiento.destino.DestinoUi;
+import co.com.screenplay.project.agendamiento.destino.DestinoUi;
 import io.cucumber.datatable.DataTable;
 import net.serenitybdd.screenplay.Actor;
 import net.serenitybdd.screenplay.Task;

@@ -1,6 +1,6 @@
 package co.com.screenplay.project.preguntas.titulopregunta;
 
-import co.com.screenplay.project.ui.agendamiento.titulo.TituloUi;
+import co.com.screenplay.project.agendamiento.titulo.TituloUi;
 import net.serenitybdd.screenplay.Actor;
 import net.serenitybdd.screenplay.Question;
 import net.serenitybdd.screenplay.waits.WaitUntil;

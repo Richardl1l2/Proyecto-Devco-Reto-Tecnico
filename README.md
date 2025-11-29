@@ -35,38 +35,19 @@ Instala Intellij IDEA:
 ```bash
 Project/
 │
-├── src/
-│   ├── main/
-│   │   └── java/
-│   │       └── project/
-│   │           ├── questions/
-│   │           │   ├── ExampleQuestion.java
-│   │           ├── tasks/
-│   │           │   ├── ExampleTask.java
-│   │           ├── interactions/
-│   │           │   ├── ExampleInteraction.java
-│   │           ├── ui/
-│   │           │   ├── ExampleLocators.java
-│   │           └── utils/
-│   │               ├── ExampleUtil.java
-│   │
-│   └── test/
-│       └── java/
-│           └── project/
-│               ├── TestCases/
-│               │   ├── ExampleTest.java
-│               ├── stepdefinitions/
-│               │   ├── ExampleStepDefinitions.java
-│               ├── runners/
-│               │   ├── ExampleTestRunner.java
-│               ├── resources/
-│               │   ├── features/
-│               │   │   ├── ExampleFeature.feature
-│               │   └── serenity.conf
-│               │   └── chromedriver.exe
-│
-├── build.gradle
-└── README.md
+src/
+└── test/
+    ├── java/
+    │   └── co/com/screenplay/project/
+    │       ├── runners/               <-- 2. Runners/Ejecución
+    │       ├── stepdefinitions/       <-- 3. Steps (Traducción Gherkin)
+    │       ├── questions/             <-- 4. Preguntas (Questions)
+    │       ├── tasks/                 <-- 5. Tareas (Tasks)
+    │       └── userinterfaces/        <-- 6. Interfaces de Usuario (UI)
+    └── resources/
+        ├── features/                <-- A. Archivos Gherkin (.feature)
+        ├── serenity.conf            <-- B. Configuración de Serenity
+
 
 ```
 Explicación

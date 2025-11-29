@@ -1,4 +1,4 @@
-package co.com.screenplay.project.ui.agendamiento.caja;
+package co.com.screenplay.project.agendamiento.caja;
 
 import net.serenitybdd.screenplay.targets.Target;
 import org.openqa.selenium.By;

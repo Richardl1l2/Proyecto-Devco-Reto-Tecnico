@@ -1,6 +1,6 @@
 package co.com.screenplay.project.tareas.agendamiento.partidaregreso;
 
-import co.com.screenplay.project.ui.agendamiento.partidaregreso.PartidaRegresoUi;
+import co.com.screenplay.project.agendamiento.partidaregreso.PartidaRegresoUi;
 import co.com.screenplay.project.utilidades.NavegarMesesPartida;
 import co.com.screenplay.project.utilidades.NavegarMesesRegreso;
 import co.com.screenplay.project.utilidades.Espera;

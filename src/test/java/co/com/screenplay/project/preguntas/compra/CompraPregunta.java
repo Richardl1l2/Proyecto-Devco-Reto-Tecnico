@@ -1,6 +1,6 @@
 package co.com.screenplay.project.preguntas.compra;
 
-import co.com.screenplay.project.ui.agendamiento.resumenpago.ResumenPagoUi;
+import co.com.screenplay.project.agendamiento.resumenpago.ResumenPagoUi;
 import net.serenitybdd.screenplay.Actor;
 import net.serenitybdd.screenplay.Question;
 import net.serenitybdd.screenplay.waits.WaitUntil;

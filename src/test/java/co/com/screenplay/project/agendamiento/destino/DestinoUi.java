@@ -1,4 +1,4 @@
-package co.com.screenplay.project.ui.agendamiento.destino;
+package co.com.screenplay.project.agendamiento.destino;
 
 import net.serenitybdd.screenplay.targets.Target;
 import org.openqa.selenium.By;
