@@ -7,6 +7,7 @@ import net.serenitybdd.screenplay.Performable;
 import net.serenitybdd.screenplay.Task;
 import net.serenitybdd.screenplay.actions.Open;
 import net.thucydides.core.util.EnvironmentVariables;
+
 import static net.serenitybdd.screenplay.Tasks.instrumented;
 
 public class Web implements Task {

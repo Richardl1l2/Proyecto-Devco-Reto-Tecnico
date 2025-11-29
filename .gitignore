@@ -4,7 +4,6 @@ build/
 !**/src/main/**/build/
 !**/src/test/**/build/
 target
-**/chromedriver.exe
 
 ### IntelliJ IDEA ###
 .idea/modules.xml
@@ -42,3 +41,5 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+# Local Netlify folder
+.netlify
