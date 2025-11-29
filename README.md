@@ -26,10 +26,6 @@ Instala Intellij IDEA:
  ```bash
  https://gradle.org/next-steps/?version=7.6.4&format=bin
 ```
-- Descargar de chromium.org la versión de navegador instalado:
- ```bash
- https://googlechromelabs.github.io/chrome-for-testing/
-```
 
 ## Estructura
 ```bash

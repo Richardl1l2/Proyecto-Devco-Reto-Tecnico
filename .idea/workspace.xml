@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="843da7a1-9bb5-4a92-9226-cd703e834163" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/screenplay/project/preguntas/compra/CompraPregunta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/co/com/screenplay/project/preguntas/compra/CompraPregunta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/screenplay/project/preguntas/titulopregunta/TituloPregunta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/co/com/screenplay/project/preguntas/titulopregunta/TituloPregunta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/screenplay/project/ui/agendamiento/caja/CajaUi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/co/com/screenplay/project/agendamiento/caja/CajaUi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/screenplay/project/ui/agendamiento/destino/DestinoUi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/co/com/screenplay/project/agendamiento/destino/DestinoUi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/screenplay/project/ui/agendamiento/partidaregreso/PartidaRegresoUi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/co/com/screenplay/project/agendamiento/partidaregreso/PartidaRegresoUi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/screenplay/project/ui/agendamiento/rangoprecio/RangoPrecioUi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/co/com/screenplay/project/agendamiento/rangoprecio/RangoPrecioUi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/screenplay/project/ui/agendamiento/resumenpago/ResumenPagoUi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/co/com/screenplay/project/agendamiento/resumenpago/ResumenPagoUi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/screenplay/project/ui/agendamiento/titulo/TituloUi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/co/com/screenplay/project/agendamiento/titulo/TituloUi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/screenplay/project/utilidades/Constantes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/co/com/screenplay/project/utilidades/Constantes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/screenplay/project/utilidades/Espera.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/co/com/screenplay/project/utilidades/Espera.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/screenplay/project/utilidades/NavegarMesesPartida.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/co/com/screenplay/project/utilidades/NavegarMesesPartida.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/screenplay/project/utilidades/NavegarMesesRegreso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/co/com/screenplay/project/utilidades/NavegarMesesRegreso.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/co/com/screenplay/project/tareas/agendamiento/caja/CajaTarea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/co/com/screenplay/project/tareas/agendamiento/caja/CajaTarea.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/co/com/screenplay/project/tareas/agendamiento/destino/DestinoTarea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/co/com/screenplay/project/tareas/agendamiento/destino/DestinoTarea.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/co/com/screenplay/project/tareas/agendamiento/partidaregreso/PartidaRegresoTarea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/co/com/screenplay/project/tareas/agendamiento/partidaregreso/PartidaRegresoTarea.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/co/com/screenplay/project/tareas/agendamiento/rangoprecio/RangoPrecioTarea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/co/com/screenplay/project/tareas/agendamiento/rangoprecio/RangoPrecioTarea.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/co/com/screenplay/project/tareas/agendamiento/resumenpago/ResumenPagoTarea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/co/com/screenplay/project/tareas/agendamiento/resumenpago/ResumenPagoTarea.java" afterDir="false" />
-    </list>
+    <list default="true" id="843da7a1-9bb5-4a92-9226-cd703e834163" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
