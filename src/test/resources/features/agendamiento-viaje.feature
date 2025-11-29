@@ -25,7 +25,7 @@ Característica: Agendamiento de Viaje con Filtro de Precios
 
     Ejemplos:
       | partida_mes   | partida_dia | regreso_mes | regreso_dia | adultos | ninos | precio | destino_elegido | nombre | email          | ssn         | telefono     | codigo_promocional |
-      | December 2025 | 2           | March 2026  | 10          | 2       | 4     | 1700   | Flagstaff       | Maria  | maria@test.com | 123-45-6789 | +34600111222 | PROMO1             |
+      | December 2025 | 2           | March 2026  | 10          | 2       | 4     | 1700   | Flagstaff       | Maria  | maria@test.com | 123-45-6789 | +17871234567 | PROMO1             |
 
   @validarTitulo
   Escenario: Verificar el título de la página principal
